@@ -4,8 +4,8 @@
 [[`arXiv`](https://arxiv.org/abs/2203.14335)] [[`BibTeX`](#CitingHieraSeg)]
 
 ## Updates
-* New work [GMMSeg](https://arxiv.org/abs/2210.02025), the first generative neural framework for semantic segmentation has been accepted by NeurIPS2022! [[code for GMMSeg]](https://github.com/leonnnop/GMMSeg)
-* An **[Pytorch implementation](https://github.com/qhanghu/HSSN_pytorch)** has already been released. Thanks to Beijing Institute of Technology!
+* The Pytorch implementation has already been released!
+* New work [GMMSeg](https://arxiv.org/abs/2210.02025), the first generative neural framework for semantic segmentation has been accepted by NeurIPS2022! [[code for GMMSeg](https://github.com/leonnnop/GMMSeg)]
 * This repo will release an official **PaddlePaddle** implementation for paper: Deep Hierarchical Semantic Segmentation.
 
 ## Abstract
